@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_adjust_volume.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_broadcast_class.xml" value="0.2328125" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_list.xml" value="0.371875" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_login.xml" value="0.371875" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_player.xml" value="0.15670289855072464" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/delete_button.xml" value="0.3125" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_baseline_library_music_24.xml" value="0.218" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_music_note.xml" value="0.3125" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/list_bg.xml" value="0.1" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/pause_button.xml" value="0.1" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_list.xml" value="0.25" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_music.xml" value="0.2889294403892944" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_player.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_register.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/content_login.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/fragment_first.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/list_layout.xml" value="0.48940269749518306" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/login_layout.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/umuts/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/register_layout.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
